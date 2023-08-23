@@ -2,6 +2,6 @@
 
 ## Install
 
-```shell
+```sh
 pip install -e ".[dev]"
 ```
